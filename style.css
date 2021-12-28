@@ -1,0 +1,193 @@
+.navbar-brand{
+  font-size: 27px !important;
+  position: absolute !important;
+  margin-left: 25% !important;
+  font-weight: bold;
+  
+}
+.collapse{
+  margin-left: 55% !important;
+  font-size: 20px !important;
+ 
+}
+.bg1{
+  position: absolute;
+    width: 100%;
+    height: 100%;
+    top: -1px;
+    opacity: 0;
+    animation: b 7s infinite;
+}
+@keyframes b{
+ 0%   {opacity: 0;}
+ 50%  {opacity: 1;}
+ 100% {opacity: 0;}
+
+}
+.bg2{
+  position: absolute;
+    width: 100%;
+    height: 100%;
+    top: -1px;
+    opacity: 1;
+    animation: b1 7s infinite;
+}
+@keyframes b1{
+ 0%   {opacity: 1;}
+ 50%  {opacity: 0;}
+ 100% {opacity: 1;}
+}
+
+.b1{
+  position: relative;
+    text-align: left;
+    margin-top: 180px;
+    margin-left: 490px;
+    color: white;
+}
+.b4{
+  position: relative;
+    text-align: left;
+    margin-left: 490px;
+    color: white;
+    margin-top: 40px;
+    font-size: 20px;
+}
+
+.btn{
+  position: relative;
+  margin-left: 495px;
+}
+#ab1{
+      position: relative;
+    margin-top: 280px;
+    text-align: center;
+    color: black;
+}
+.ab2{
+      margin-left: 501px;
+    margin-top: 40px;
+    font-size: 20px;
+}
+.ab3{
+      margin-top: -163px;
+    width: 8%;
+    margin-left: 980px;
+}
+.ab4{
+      margin-left: -530px;
+    margin-top: 59px;
+    position: absolute;
+}
+.ab5{
+        margin-left: 869px;
+    margin-top: -182px;
+
+}
+.co{
+      text-align: center;
+    margin-left: -305px;
+    margin-top: 120px;
+    position: relative;
+}
+.emp{
+         text-align: center;
+    margin-left: 296px;
+    margin-top: -51px;
+}
+.item{
+      position: relative;
+    margin-left: 516px;
+    font-size: 17px;
+    font-family: cursive;
+}
+.item2{
+      position: relative;
+        margin-left: 810px;
+    margin-top: -165px;
+    font-size: 17px;
+    font-family: cursive;
+}
+.empty{
+      width: 21%;
+    height: 2px;
+    background: lightgray;
+    margin-left: 585px;
+
+}
+#cd1{
+      position: relative;
+    margin-top: 80px;
+    text-align: center;
+    color: black;
+}
+.ef1{
+  
+    margin-left: -270px;
+    text-align: center;
+    margin-top: 50px;
+    font-family: fantasy;
+
+}
+.ef2{
+   margin-left: 258px;
+    text-align: center;
+    margin-top: -335px;
+    font-family: fantasy;
+    position: relative;
+}
+
+.item4{
+      margin-left: 800px;
+    margin-top: 40px;
+    font-size: 20px;
+    font-family: cursive;
+}
+.item3{
+      margin-left: 519px;
+    margin-top: 40px;
+    font-size: 20px;
+    font-family: cursive;
+}
+
+#bt{   
+   margin-left: 33px;
+    margin-top: 5px;
+}
+  #bt2
+   { 
+     margin-left: 33px;
+    margin-top: 7px;
+    }
+    #ca{
+          margin-left: 220px !important;
+    margin-top: 80px !important;
+    }
+    #sign{
+          margin-top: -390px;
+    margin-left: 850px;
+    }
+    .list{
+    margin-top: 26px;
+    width: 335px;
+    font-size: 18px;
+    border: 1px solid gainsboro;
+    color: gray;
+    border-radius: 4px;
+    height: 35px;
+
+    }
+    #bt6{
+         margin-left: 5px;
+    margin-top: 20px;
+    }
+    .op{
+          margin-right: -57rem!important;
+    margin-left: 1rem!important;
+    margin-top: 11px;
+    }
+    #ca{
+          margin-left: 220px !important;
+    margin-top: 80px !important;
+    height: 52vh;
+    }
